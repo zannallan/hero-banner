@@ -19,7 +19,7 @@ deliverables: '1 HTML file, 1 CSS file, images'
 
 - *Typefaces:* `Open Sans`
 - *Text sizes:* `4rem`, `2rem`
-- *Colours:* `rgba(0, 0, 0, 0.5)`
+- *Colours:* `rgba(0, 0, 0, .5)`
 - *Expected class names:* `.img-flex`, `.banner`
 - *Banner maximum height:* `500px`
 - *Content maximum width:* `50em`
