@@ -17,7 +17,7 @@ deliverables: '1 HTML file, 1 CSS file, images'
 
 ## Details
 
-- *Typefaces:* `Open Sans`
+- *Typefaces:* `Open Sans` (regular, italic, bold)
 - *Text sizes:* `4rem`, `2rem`
 - *Colours:* `rgba(0, 0, 0, .5)`
 - *Expected class names:* `.img-flex`, `.banner`
