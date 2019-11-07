@@ -24,6 +24,7 @@ body {
 }
 
 h2 {
+  display: inline;
   font-family: "Open Sans", sans-serif;
   background-color: rgba(0, 0, 0, .5);
   color: #fff;
@@ -40,6 +41,8 @@ p {
 }
 
 .banner {
+  padding-left: 1rem;
+  padding-right: 1rem;
   max-width: 50em;
   width: 100%;
   position: absolute;
